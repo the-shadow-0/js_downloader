@@ -4,8 +4,9 @@ This Python script downloads JavaScript files from a list of URLs provided in a 
 Requirements
 
 To run this script, you need to have Python 3.x installed along with the requests library. If you don't have the requests library installed, you can install it via pip:
-
+'''bash
 pip install requests
+'''
 
 Files
 
