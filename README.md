@@ -36,14 +36,15 @@ After the script runs, check the js_files folder for the downloaded files.
 
 Example
 jsfiles.txt:
-
+```txt
 https://example.com/script1.js
 https://example.com/script2.js
 https://example.com/script3.js
-
+```
 Output:
-
+```txt
 Downloaded: js_files/script1.js
 Downloaded: js_files/script2.js
 Failed to download https://example.com/script3.js: 404 Client Error: Not Found for url: https://example.com/script3.js
 Failed to download https://example.com/script3.js: 404 Client Error: Not Found for url: https://example.com/script3.js
+```
