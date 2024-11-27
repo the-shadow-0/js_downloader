@@ -46,3 +46,4 @@ Output:
 Downloaded: js_files/script1.js
 Downloaded: js_files/script2.js
 Failed to download https://example.com/script3.js: 404 Client Error: Not Found for url: https://example.com/script3.js
+Failed to download https://example.com/script3.js: 404 Client Error: Not Found for url: https://example.com/script3.js
